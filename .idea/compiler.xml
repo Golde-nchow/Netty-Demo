@@ -8,6 +8,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="BIO-old-version" />
+        <module name="NIO-Fake-version" />
       </profile>
     </annotationProcessing>
   </component>
