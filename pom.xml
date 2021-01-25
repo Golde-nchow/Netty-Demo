@@ -11,6 +11,7 @@
     <modules>
         <module>BIO-old-version</module>
         <module>NIO-Fake-version</module>
+        <module>NIO-Real-version</module>
     </modules>
 
     <dependencies>
