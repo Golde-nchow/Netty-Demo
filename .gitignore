@@ -2,7 +2,7 @@
 *.class
 
 # .idea dir
-./.idea
+.idea
 
 # iml file
 *.iml
