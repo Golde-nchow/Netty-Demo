@@ -13,6 +13,7 @@
         <module>NIO-Fake-version</module>
         <module>NIO-Real-version</module>
         <module>AIO-version</module>
+        <module>Netty-simple-version</module>
     </modules>
 
     <dependencies>
