@@ -16,6 +16,7 @@
         <module>Netty-simple-version</module>
         <module>Netty-delimiter</module>
         <module>Netty-Fixed-Length-Decoder</module>
+        <module>Netty-webSocket-Demo</module>
     </modules>
 
     <dependencies>

@@ -7,6 +7,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="Netty-webSocket-Demo" />
         <module name="BIO-old-version" />
         <module name="Netty-delimiter" />
         <module name="Netty-Fixed-Length-Decoder" />
