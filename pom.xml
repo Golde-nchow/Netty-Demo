@@ -14,6 +14,7 @@
         <module>NIO-Real-version</module>
         <module>AIO-version</module>
         <module>Netty-simple-version</module>
+        <module>Netty-delimiter</module>
     </modules>
 
     <dependencies>
