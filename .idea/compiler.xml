@@ -9,6 +9,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="BIO-old-version" />
         <module name="Netty-delimiter" />
+        <module name="Netty-Fixed-Length-Decoder" />
         <module name="AIO-version" />
         <module name="Netty-simple-version" />
         <module name="NIO-Real-version" />
