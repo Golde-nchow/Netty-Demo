@@ -10,6 +10,7 @@
         <module name="Netty-webSocket-Demo" />
         <module name="BIO-old-version" />
         <module name="Netty-delimiter" />
+        <module name="Netty-private-protocol" />
         <module name="Netty-Fixed-Length-Decoder" />
         <module name="AIO-version" />
         <module name="Netty-simple-version" />

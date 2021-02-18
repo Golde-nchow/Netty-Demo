@@ -17,6 +17,7 @@
         <module>Netty-delimiter</module>
         <module>Netty-Fixed-Length-Decoder</module>
         <module>Netty-webSocket-Demo</module>
+        <module>Netty-private-protocol</module>
     </modules>
 
     <dependencies>
